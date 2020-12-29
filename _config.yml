@@ -28,7 +28,7 @@ twitter_username: stephen_corwin
 github_username:  corwinstephen
 
 # Build settings
-remote_theme: no-style-please
+remote_theme: riggraz/no-style-please 
 plugins:
   - jekyll-feed
 
