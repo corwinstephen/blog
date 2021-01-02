@@ -4,7 +4,7 @@
 
 layout: home
 ---
-
+---
 - Audio
   - Soundcloud
   - Sheets
@@ -22,7 +22,7 @@ layout: home
   - Medium
   - Twitter
   - Email
-  
+
 - Video
   - Plastics 
 
