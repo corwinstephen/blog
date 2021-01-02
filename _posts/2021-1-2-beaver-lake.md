@@ -4,6 +4,7 @@ title:  "Beaver lake is closed for skating"
 date:   2021-1-2 6:15:00 -0500
 categories:
   - cities
+published: true
 ---
 Beaver lake is closed for skating. Forever. Too many city vehicles have fallen through the ice, and so we've decided it's just not safe anymore.
 
