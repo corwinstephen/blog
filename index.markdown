@@ -8,7 +8,7 @@ layout: home
 - Audio
   - Soundcloud
   - Sheets
-      - Stephen Corwin - Tea Song
+      - [Stephen Corwin - Tea Song](/sheets/stephen-corwin-tea-song.pdf)
       - Ryuichi Sakamoto - Happy End
       - G. Bonnet & R. Romanelli - Amour, Emoi et Vous 
 
