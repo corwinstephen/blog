@@ -9,20 +9,14 @@ layout: home
   - Soundcloud
   - Sheets
       - [Stephen Corwin - Tea Song](/sheets/stephen-corwin-tea-song.pdf)
-      - Ryuichi Sakamoto - Happy End
-      - G. Bonnet & R. Romanelli - Amour, Emoi et Vous 
+      - [Ryuichi Sakamoto - Happy End](/sheets/ryuichi-sakamoto-happy-end.pdf)
+      - [G. Bonnet & R. Romanelli - Amour, Emoi et Vous](/sheets/amour-emoi-et-vous.pdf)
 
 - Physical
-  - Nilzo Tees 
+  - [Nilzo Tees](https://nilzotees.com)
 
 - Web
-  - CityGrows 
+  - [CityGrows](https://citygro.ws)
 
-- Links
-  - Medium
-  - Twitter
-  - Email
-
-- Video
-  - Plastics 
-
+- [@stephen_corwin](https://twitter.com/Stephen_Corwin)
+- [me@stephencorwin.com](mailto:me@stephencorwin.com)
