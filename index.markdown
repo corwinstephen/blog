@@ -5,4 +5,24 @@
 layout: home
 ---
 
-Hello
+- Audio
+  - Soundcloud
+  - Sheets
+      - Stephen Corwin - Tea Song
+      - Ryuichi Sakamoto - Happy End
+      - G. Bonnet & R. Romanelli - Amour, Emoi et Vous 
+
+- Physical
+  - Nilzo Tees 
+
+- Web
+  - CityGrows 
+
+- Links
+  - Medium
+  - Twitter
+  - Email
+  
+- Video
+  - Plastics 
+
