@@ -13,10 +13,8 @@ layout: home
       - [Stephen Corwin - Tea Song](/sheets/stephen-corwin-tea-song.pdf)
       - [Ryuichi Sakamoto - Happy End](/sheets/ryuichi-sakamoto-happy-end.pdf)
       - [G. Bonnet & R. Romanelli - Amour, Emoi et Vous](/sheets/amour-emoi-et-vous.pdf)
-
 - Physical
   - [Nilzo Tees](https://nilzotees.com)
-
 - Web
   - [CityGrows](https://citygro.ws)
 
