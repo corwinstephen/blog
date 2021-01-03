@@ -5,7 +5,7 @@
 layout: home
 ---
 
-***
+------
 
 - Audio
   - Soundcloud
@@ -21,7 +21,7 @@ layout: home
   - [CityGrows](https://citygro.ws)
 
 
-***
+------
 
 - [@stephen_corwin](https://twitter.com/Stephen_Corwin)
 - [me@stephencorwin.com](mailto:me@stephencorwin.com)
