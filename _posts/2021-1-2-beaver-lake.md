@@ -6,6 +6,7 @@ categories:
   - cities
 published: true
 ---
+![snowpark]({{site.url}}/assets/img/parc-lafontaine.png)
 Beaver lake is closed for skating. Forever. Too many city vehicles have fallen through the ice, and so we've decided it's just not safe anymore.
 
 Depending on who you ask, you might hear that it's about climate change. Beaver lake just doesn't freeze as reliably as it used to. Others might tell you it's about the lake becoming several meters deeper in the process of adding a "waterfall feature". Neat.
